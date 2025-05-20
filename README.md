@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Gabriel
+- 👀 I’m interested in engineering
+- 🌱 I’m currently learning python and improving my Excel skills
